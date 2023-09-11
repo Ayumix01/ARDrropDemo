@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/_PROJECT/Scenes/Garage AR simulation Scene.unity
+    guid: 78942fac059cc0c4badbd129c56acabe
+  - enabled: 1
+    path: Assets/_PROJECT/Scenes/MobileARSceneWIP.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1ba2d455ddc8b5249ac56dc8b912d34e, type: 2}
